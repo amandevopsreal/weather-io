@@ -1,0 +1,38 @@
+* {
+
+    box-sizing: border-box;
+}
+
+body {
+
+    min-height: 100vh;
+}
+
+.container {
+    width: 458px;
+    height: 600px;
+    padding: 10px;
+    position: relative;
+    border-radius: 10px;
+    box-shadow: 2px 3px 17px rgba(0, 0, 0, 0.664)
+}
+
+p {
+    font-size: 1.6rem;
+    text-align: center;
+}
+
+h1 {
+    font-size: 6rem;
+    text-align: center;
+}
+
+.top {
+    width: 100%;
+    margin: 1rem auto;
+}
+
+.top .location p {
+    padding: 0 0 20px 0;
+    font-size: 32px;
+}

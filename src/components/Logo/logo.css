@@ -1,0 +1,10 @@
+.sex2{
+    width: 150px;
+    height: 150px;
+}
+.l{
+    width: 100%;
+    display: flex;
+    justify-content:flex-end ;
+    align-items: center;
+}

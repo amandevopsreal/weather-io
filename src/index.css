@@ -1,0 +1,28 @@
+body,
+html {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family:
+    'Ubuntu';
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color: #0093E9;
+  background: linear-gradient(to right, #0093E9, #80D0C7);
+
+
+
+}
+
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.center {
+  display: flex;
+  justify-content: center;
+}
